@@ -1,23 +1,25 @@
-.right{
-    border-style: round;
-    margin: 5px;
+div{
+	border-style: dotted;
+	margin: 5px;
 }
-.left{
-    border-style: double;
-    margin: 5px;
-}
-#first{
+#first p{
+	font-size: 30px;
 
 }
-#second{
+/*
+#third > p{
+	visibility: hidden;
 
 }
-#third{
 
+h1{
+	visibility: hidden;
 }
-#fifth{
 
+#second {
+	visibility: hidden;
 }
-#sixth{
-
+img{
+	visibility: visible;
 }
+*/
