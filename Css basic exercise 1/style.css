@@ -1,0 +1,26 @@
+div{
+	border-style: dotted;
+	margin: 5px;
+}
+#first p{
+	font-size: 30px;
+
+}
+
+/*
+#third > p{
+	visibility: hidden;
+
+}
+
+h1{
+	visibility: hidden;
+}
+
+#second {
+	visibility: hidden;
+}
+img{
+	visibility: visible;
+}
+*/
